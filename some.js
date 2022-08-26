@@ -12,6 +12,7 @@ const hi = [
     "how are you there",
     "go away ! ",
     "hello how you doin",
+    "sup",
 ]
 
 function PrintNames(value,index,array){
