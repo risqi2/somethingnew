@@ -1,13 +1,21 @@
 
 
 
-const a = "hello"
-const b = "whatsupp"
-const c = "how are you doing"
-const d = "what have you been up to"
-const e = "yo"
-const f = "how are you there"
-const g = "go away ! "
+
+
+const hi = [
+    "hello",
+    "whatsupp",
+    "how are you doing",
+    "what have you been up to",
+    "yo",
+    "how are you there",
+    "go away ! ",
+]
+
+function PrintNames(value,index,array){
+    console.log(value)
+}
  
 
-console.log(a)
+hi.map(PrintNames)
