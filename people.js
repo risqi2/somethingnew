@@ -1,1 +1,4 @@
-const first = "John"
+export const people = [
+  "lex",
+  "george",
+  ]
