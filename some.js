@@ -15,6 +15,15 @@ const hi = [
     "sup",
 ]
 
+
+// added by risqi2
+const bye = [
+    "have a good day",
+    "see you later",
+    "bye",
+    "have a nice day",
+]
+
 function PrintNames(value,index,array){
     console.log(value)
 }
