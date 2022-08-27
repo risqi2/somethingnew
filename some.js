@@ -23,6 +23,7 @@ const bye = [
     "bye",
     "have a nice day",
     "good bye",
+    "more",
 ]
 
 function PrintNames(value,index,array){
